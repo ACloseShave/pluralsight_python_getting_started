@@ -2,12 +2,12 @@ students = ()
 
 
 class Student:
-    def add_student(self, name, student_id=332):
+    def --init--(self, name, student_id=332):
         student = {"name": name, "student_id": student_id}
         students.append(student)
 
-
-student = Student()
-student.add_student("Mark")
+test_student = Student("Test")
 
 print(students)
+
+
