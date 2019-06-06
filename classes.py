@@ -1,13 +1,14 @@
-students = ()
+students = []
 
 
 class Student:
-    def add_student(self, name, student_id=332):
+    def __init__(self, name, student_id=332):
         student = {"name": name, "student_id": student_id}
         students.append(student)
 
 
-student = Student()
-student.add_student("Mark")
+    def __str__(self):
+        return "Student"
 
-print(students)
+test_student = Student("Test")
+print(test_student)
