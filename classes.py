@@ -16,11 +16,18 @@ class Student:
     def get_name_capitalize(self):
         return self.name.capitalize()
 
-    def get_school_name(selfself):
+    def get_school_name(self):
         return self.school_name
 
 
-# test_student = Student("Test")
-# print(test_student)
+class HighSchoolStudent(Student):
 
-print(Student.school_name)
+    school_name = "Springfield High School"
+
+    def get_school_name(self):
+        return "This is a high school student"
+
+    def get_name_capitalize(self):
+        original_value = super().get_name_capitalize()
+        return original_value + "-HS"
+
