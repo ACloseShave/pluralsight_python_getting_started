@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bccc439f-5f42-4e11-ab0e-0f1ad97b5de1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/webapp/test_webapp.py" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/test_webapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/hs_student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/yield.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/functions.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,29 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/classes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webapp/test_webapp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="16">
+              <caret line="3" selection-start-line="3" selection-end-line="27" />
               <folding>
                 <element signature="e#0#68#0" expanded="true" />
               </folding>
@@ -100,6 +88,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/webapp" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -179,7 +168,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="790" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -217,8 +205,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/test_webapp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="16">
+          <caret line="3" selection-start-line="3" selection-end-line="27" />
           <folding>
             <element signature="e#0#68#0" expanded="true" />
           </folding>
