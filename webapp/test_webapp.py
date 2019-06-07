@@ -1,4 +1,8 @@
-from flask import Flask
+# Importing Flask to convert to webapp
+# Part of "Python - Getting Started" on Pluralsight.com
+
+
+rom flask import Flask
 app = Flask(__name__)
 
 @app.route("/")
